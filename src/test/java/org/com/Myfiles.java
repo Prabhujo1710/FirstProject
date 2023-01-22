@@ -16,4 +16,13 @@ public class Myfiles {
 	
 	}
 	
+	private void employeeName() {
+	
+	}
+	private void employeeId() {
+
+	}
+	private void employeePhoneNum() {
+	
+	}
 }
