@@ -15,5 +15,12 @@ public class Myfiles {
 		System.out.println("Praveen");
 	
 	}
+
+	private void companyName() {
+	
+	}
+	private void companyId() {
+	
+	}
 	
 }
