@@ -9,5 +9,10 @@ public class ClassB {
 
 	}
 
-	
+	private void hello() {
+		
+	}
+	private void welcome() {
+		
+	}
 }
